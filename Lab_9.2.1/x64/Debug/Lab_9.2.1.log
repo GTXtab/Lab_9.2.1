@@ -1,0 +1,6 @@
+﻿  a.cpp
+D:\NULP\AP\autumn_labs&pract\October\ap_t_09\ReadyToLook\Lab_9.2.1\Lab_9.2.1\a.cpp(16,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\NULP\AP\autumn_labs&pract\October\ap_t_09\ReadyToLook\Lab_9.2.1\Lab_9.2.1\a.cpp(19,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  Lab_9.2.1.vcxproj -> D:\NULP\AP\autumn_labs&pract\October\ap_t_09\ReadyToLook\Lab_9.2.1\x64\Debug\Lab_9.2.1.exe
